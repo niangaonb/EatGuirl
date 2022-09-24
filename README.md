@@ -14,7 +14,7 @@
 
 线上版本:想屁吃年糕很穷
 
-Github Page:搞不来下面有教程
+Github Page:https://niangaonb.github.io/EatGuirl/
 
 ## 其它事项
 
@@ -22,9 +22,11 @@ Github Page:搞不来下面有教程
 
 最好标清楚原作者
 
-夹带私货(本人bilibili):https://space.bilibili.com/407177331?spm_id_from=333.1007.0.0
+夹带私货(本人bilibili):https://space.bilibili.com/407177331
 
 ## 如何游玩
+
+进链接:https://niangaonb.github.io/EatGuirl/
 
 下载源代码
 
